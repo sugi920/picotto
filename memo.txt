@@ -1,0 +1,10 @@
+自分メモ
+
+LPC-1115の情報源
+
+NXP LPCマイコン情報( ホーム > LPCマイコン > Cortex-M0 > LPC1100(X)L )
+http://www.nxp-lpc.com/lpc_micon/cortex-m0/lpc1100xl/
+
+LPC111x/LPC11C1x ユーザーマニュアル(日本語)
+http://www.nxp-lpc.com/images/LPC111x_UM_Rev.00.15_Japanese.pdf
+
